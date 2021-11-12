@@ -3,3 +3,4 @@ y=10
 sum=x+y
 print(sum)
 x=20
+x=20
